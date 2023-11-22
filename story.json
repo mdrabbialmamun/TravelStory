@@ -1,19 +1,17 @@
 [
     {
-    "name":" Travel to Thailand ",
-    "description": "Have a nice trip"
-    "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic1.png"
+        "name":" Travel to Thailand ",
+        "description": "Have a nice trip"
+        "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic1.png"
     },
-  
-
-{
-    "name":" Pre-arrangement of the tour",
-    "description":" Have a nice trip.\nfgfggggggggggggggggggggggggggggggggggggg\ngffgggggggggggfgfgfgfgfgfgfgfgffg\nffffffffffffffffffffffffffffff",
-    "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic1.png"
+   {
+        "name":" Pre-arrangement of the tour",
+        "description":" Have a nice trip.\nfgfggggggggggggggggggggggggggggggggggggg\ngffgggggggggggfgfgfgfgfgfgfgfgffg\nffffffffffffffffffffffffffffff",
+        "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic2.png"
     },
-  {
-    "name":" Pre-arrangement of the tour",
-    "description":" Have a nice trip. ",
-    "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic1.png"
+    {
+        "name":" Pre-arrangement of the tour",
+        "description":" Have a nice trip. ",
+        "img":"https://raw.githubusercontent.com/mdrabbialmamun/TravelStory/main/pic1.png"
     },
 ]
